@@ -1,0 +1,4 @@
+首次提交：创建 hello-git 练习仓库
+
+包含 README.md 和 index.html 两个文件，
+用于练习 Git 的 add / commit / push 基本流程。
